@@ -1,0 +1,1 @@
+class JSONResponseNotAvailableError < StandardError; end
